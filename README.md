@@ -1,9 +1,7 @@
 
 
 <h1 align="center"> Hi There👋 I'm Calistus Mwonga </h1>
-<div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div>
+
 <p align="center"> (Open for Hiring)</p>
 
 <h2 align="center" style="border: none;"> About</h2>
@@ -70,8 +68,8 @@
   <tr style="border: none;">
     <td style="border: none;"><strong>Competition Platforms:</strong></td>
     <td style="border: none;">
-      <a href="https://www.kaggle.com/docs" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>&nbsp;
-      <a href="https://zindi.africa/competitions" target="_blank"><img src="https://img.shields.io/badge/Zindi Africa-%231f0f4f?style=for-the-badge&logoColor=white" /></a>
+      <a href="https://www.kaggle.com/calistusmwonga" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>&nbsp;
+      <a href="https://zindi.africa/users/CalistusMwonga" target="_blank"><img src="https://img.shields.io/badge/Zindi Africa-%231f0f4f?style=for-the-badge&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -82,10 +80,10 @@
 
 <h2 align="center" style="border: none;"> My Project Walkthroughs</h2>
 <p align="center">
-  <a href="https://www.youtube.com/@YourChannelName" target="_blank">
+  <a href="https://www.youtube.com/" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>&nbsp;
-  <a target="_blank" href="https://medium.com/@ileriayoadebiyi"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a target="_blank" href="https://medium.com/"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 <hr>
