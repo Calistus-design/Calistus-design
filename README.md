@@ -6,8 +6,8 @@
 
 <h2 align="center" style="border: none;"> About</h2>
 <p align="center">
-  <samp> A data scientist passionate about machine learning and data analytics. I enjoy finding patterns in data that drive smarter business decisions. On this page, you'll find some of the projects I've worked on — feel free to explore and connect!
-  </samp>
+  <div> A data scientist passionate about machine learning and data analytics. I enjoy finding patterns in data that drive smarter business decisions. On this page, you'll find some of the projects I've worked on — feel free to explore and connect!
+  </div>
   <br> <br>
 </p>
 
