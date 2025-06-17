@@ -1,12 +1,12 @@
 
 
-<h1 align="center"> Hi There👋 I'm Calistus Mwonga </h1>
+<h1 align="center"> Hi There👋 My Name is Calistus Mwonga </h1>
 
 <p align="center"> (Open for Hiring)</p>
 
-<h2 align="center" style="border: none;"> About</h2>
+<h2 align="center" style="border: none;"> About Me</h2>
 <p align="center">
-  <div> A data scientist passionate about machine learning and data analytics. I enjoy finding patterns in data that drive smarter business decisions. On this page, you'll find some of the projects I've worked on — feel free to explore and connect!
+  <div> I/m a data scientist passionate about machine learning and data analytics. I enjoy finding patterns in data that drive smarter business decisions. On this page, you'll find some of the projects I've worked on — feel free to explore and connect!
   </div>
   <br> <br>
 </p>
