@@ -13,7 +13,7 @@
 
 <hr>
 
-<h2 align="center"> Tools and Technologies</h2>
+<h2 align="center"> Tools and Technologies I use</h2>
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
